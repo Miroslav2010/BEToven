@@ -1,0 +1,106 @@
+﻿@model BETOven.Models.Ticket
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Ticket</h4>
+        <hr />
+
+        <table id="table">
+            <thead>
+                <tr>
+                    <td>
+                        @Html.DisplayNameFor(x => x.BetsOptions.First().Entry.MatchStart)
+                    </td>
+                    <td>
+                        @Html.DisplayNameFor(x => x.BetsOptions.First().Entry.Team1)
+                    </td>
+                    <td>
+                        @Html.DisplayNameFor(x => x.BetsOptions.First().Entry.Team2)
+                    </td>
+                    <td>
+                        @Html.DisplayNameFor(x => x.BetsOptions.First().Option)
+                    </td>
+                    <td>
+                        @Html.DisplayName("Coefficient")
+                    </td>
+                    <td>
+                        @Html.DisplayName("Result")
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                @Html.HiddenFor(x=>x.BetsOptions)
+                @Html.HiddenFor(x=>x.UserID)
+                @foreach (BETOven.Models.Bet bet in Model.BetsOptions)
+                {
+                    <tr>
+                        <td>
+                            @Html.Label(bet.Entry.Team1)
+                        </td>
+                        <td>
+                            @Html.Label(bet.Entry.Team2)
+                        </td>
+                        <td>
+                            @Html.Label(bet.Option)
+                        </td>
+                        <td>
+                            @if (bet.Option.Equals("1"))
+                            {
+                                @Html.Label(bet.Entry.Team1Win.ToString())
+                            }
+                            else if (bet.Option.Equals("2"))
+                            {
+                                @Html.Label(bet.Entry.Team2Win.ToString())
+                            }
+                            else if (bet.Option.Equals("X"))
+                            {
+                                @Html.Label(bet.Entry.Draw.ToString())
+                            }
+                        </td>
+                        <td>
+                            @if (bet.Status == BETOven.Models.Status.Right)
+                            {
+                                @Html.Label("Right")
+                            }
+                            else if (bet.Status == BETOven.Models.Status.Wrong)
+                            {
+                                @Html.Label("Wrong")
+                            }
+                            else if (bet.Status == BETOven.Models.Status.InProgress)
+                            {
+                                @Html.Label("In Progress")
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.BetAmount, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.BetAmount, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.BetAmount, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
