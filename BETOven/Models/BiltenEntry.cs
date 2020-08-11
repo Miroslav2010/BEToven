@@ -5,6 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Collections;
 using System.ComponentModel.DataAnnotations.Schema;
+using BETOven.Enums;
 
 namespace BETOven.Models
 {
@@ -24,5 +25,7 @@ namespace BETOven.Models
         public float Team1Win { get; set; }
         public float Draw { get; set; }
         public float Team2Win { get; set; }
+
+        public SportsEnum Sport { get; set; }
     }
 }

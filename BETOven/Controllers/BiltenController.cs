@@ -46,7 +46,7 @@ namespace BETOven.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "BiltenEntryID,MatchStart,Team1,Team2,Team1Win,Draw,Team2Win")] BiltenEntry biltenEntry)
+        public ActionResult Create([Bind(Include = "BiltenEntryID,Sport,MatchStart,Team1,Team2,Team1Win,Draw,Team2Win")] BiltenEntry biltenEntry)
         {
             if (ModelState.IsValid)
             {
@@ -78,7 +78,7 @@ namespace BETOven.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "BiltenEntryID,MatchStart,Team1,Team2,Team1Win,Draw,Team2Win")] BiltenEntry biltenEntry)
+        public ActionResult Edit([Bind(Include = "BiltenEntryID,Sport,MatchStart,Team1,Team2,Team1Win,Draw,Team2Win")] BiltenEntry biltenEntry)
         {
             if (ModelState.IsValid)
             {

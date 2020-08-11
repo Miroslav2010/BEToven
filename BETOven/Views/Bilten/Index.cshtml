@@ -15,6 +15,9 @@
             @Html.DisplayNameFor(model => model.MatchStart)
         </th>
         <th>
+            @Html.DisplayNameFor(model => model.Sport)
+        </th>
+        <th>
             @Html.DisplayNameFor(model => model.Team1)
         </th>
         <th>
@@ -34,31 +37,34 @@
 
     @foreach (var item in Model)
     {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.MatchStart)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Team1)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Team2)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Team1Win)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Draw)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Team2Win)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { id = item.BiltenEntryID }) |
-                @Html.ActionLink("Details", "Details", new { id = item.BiltenEntryID }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.BiltenEntryID })
-            </td>
-        </tr>
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.MatchStart)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Sport)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Team1)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Team2)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Team1Win)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Draw)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Team2Win)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.BiltenEntryID }) |
+        @Html.ActionLink("Details", "Details", new { id = item.BiltenEntryID }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.BiltenEntryID })
+    </td>
+</tr>
     }
 
 </table>
