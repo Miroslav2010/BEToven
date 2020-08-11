@@ -12,6 +12,9 @@ namespace BETOven.Models
     {
         [Key]
         public int BiltenEntryID { get; set; }
+        [Required]
+        [Display(Name = "Start date")]
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/MMM/yyyy}")]
         public DateTime MatchStart { get; set; }
         public string Team1 { get; set; }
         public string Team2 { get; set; }
