@@ -28,6 +28,7 @@
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
                 </ul>
                 @Html.Partial("_LoginPartial")
+                @Html.Partial("_FundsPartial")
             </div>
         </div>
     </div>
@@ -42,5 +43,18 @@
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("Scripts", required: false)
-</body>
+    @if (Request.IsAuthenticated)
+    {
+        <script type="text/javascript">
+            $(function() {
+                $.ajax({
+                    url: '/Account/Funds',
+                    success: function(data) {
+                        $("#renderbody").text(data);
+                    }
+                });
+            });
+        </script>
+    }
+    </body>
 </html>

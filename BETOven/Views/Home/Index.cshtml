@@ -29,17 +29,3 @@
         <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
     </div>
 </div>
-
-
-@section scripts{
-    <script>
-        $(document).ready(function () {
-            $.ajax({
-                url: '/Account/Funds',
-                success: function (data) {
-                    $("#renderbody").text(data);
-                }
-            })
-        })
-    </script>
-}
