@@ -9,6 +9,18 @@
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
+<p>
+    @using (Html.BeginForm("Index", "Bilten", FormMethod.Get))
+    {
+        @Html.DropDownList("Sport", new List<SelectListItem>  
+        {   new SelectListItem{ Text="---", Value = "" },
+            new SelectListItem{ Text="Football", Value = "0" },   
+            new SelectListItem{ Text="Basketball", Value = "1" },   
+            new SelectListItem{ Text="Handball", Value = "2" }  
+        })
+        <input type="submit" value="Search" />
+    }
+</p>
 <table class="table">
     <tr>
         <th>

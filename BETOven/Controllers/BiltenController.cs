@@ -15,9 +15,16 @@ namespace BETOven.Controllers
         private BetovenDBContext db = new BetovenDBContext();
 
         // GET: Bilten
-        public ActionResult Index()
+        public ActionResult Index(string Sport = null)
         {
-            return View(db.Bilten.Where(x=>x.MatchStart.CompareTo(DateTime.Now)>0).ToList());
+            if (string.IsNullOrEmpty(Sport))
+            {
+                return View(db.Bilten.Where(x => x.MatchStart.CompareTo(DateTime.Now) > 0).ToList());
+            }
+            else
+            {
+                return View(db.Bilten.Where(x => x.MatchStart.CompareTo(DateTime.Now) > 0 && ((int)x.Sport).ToString() == Sport).ToList());
+            }
         }
 
         // GET: Bilten/Details/5
