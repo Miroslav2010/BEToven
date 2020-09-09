@@ -9,7 +9,8 @@
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
-<table class="table">
+<table class="table" id="ticketsTable">
+    <thead>
     <tr>
         <th>
             @Html.DisplayNameFor(model => model.UserID)
@@ -19,21 +20,30 @@
         </th>
         <th></th>
     </tr>
+    </thead>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.UserID)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.BetAmount)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.TicketID }) |
-            @Html.ActionLink("Details", "Details", new { id=item.TicketID }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.TicketID })
-        </td>
-    </tr>
-}
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BetAmount)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.TicketID }) |
+                @Html.ActionLink("Details", "Details", new { id=item.TicketID }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.TicketID })
+            </td>
+        </tr>
+    }
 
+    </tbody>
 </table>
+
+@section Scripts{
+    <script>
+        $("#ticketsTable").DataTable();
+    </script>
+}
