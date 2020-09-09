@@ -1,0 +1,101 @@
+﻿@model BETOven.Models.Ticket
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>My Ticket</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    if (Model.BetsOptions.Count == 0)
+    {
+        <p>Empty</p>
+        @Html.ActionLink("Click here to add matches to your ticket!", "Index", "Bilten")
+    }
+    else
+    {
+        <div class="form-horizontal">
+            <table id="table">
+                <thead>
+                    <tr>
+                        <td>
+                            @Html.DisplayName("Match Start")
+                        </td>
+                        <td>
+                            @Html.DisplayName("Home")
+                        </td>
+                        <td>
+                            @Html.DisplayName("Away")
+                        </td>
+                        <td>
+                            @Html.DisplayName("Choice")
+                        </td>
+                        <td>
+                            @Html.DisplayName("Coefficient")
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    @for (int i = 0; i < Model.BetsOptions.Count; i++)
+                    {
+                        @Html.HiddenFor(model => model.BetsOptions[i])
+                    }
+                    @Html.HiddenFor(x => x.UserID)
+                    @foreach (BETOven.Models.Bet bet in Model.BetsOptions)
+                    {
+                        <tr>
+                            <td>
+                                @Html.Label(bet.Entry.MatchStart.ToString())
+                            </td>
+                            <td>
+                                @Html.Label(bet.Entry.Team1)
+                            </td>
+                            <td>
+                                @Html.Label(bet.Entry.Team2)
+                            </td>
+                            <td>
+                                @Html.Label(bet.Option)
+                            </td>
+                            <td>
+                                @if (bet.Option.Equals("1"))
+                                {
+                                    @Html.Label(bet.Entry.Team1Win.ToString())
+                                }
+                                else if (bet.Option.Equals("2"))
+                                {
+                                    @Html.Label(bet.Entry.Team2Win.ToString())
+                                }
+                                else if (bet.Option.Equals("X"))
+                                {
+                                    @Html.Label(bet.Entry.Draw.ToString())
+                                }
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <div class="form-horizontal">
+            @Html.LabelFor(model => model.BetAmount, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.BetAmount, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.BetAmount, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-horizontal">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    }
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
