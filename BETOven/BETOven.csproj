@@ -218,6 +218,7 @@
     <Compile Include="Models\Money.cs" />
     <Compile Include="Models\Ticket.cs" />
     <Compile Include="Models\UserMoney.cs" />
+    <Compile Include="Models\UserRole.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -334,6 +335,7 @@
     <Content Include="Views\Tickets\OutofFunds.cshtml" />
     <Content Include="Views\Tickets\Index.cshtml" />
     <Content Include="Views\Bilten\Result.cshtml" />
+    <Content Include="Views\Account\AddToRole.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202007131837278_first.resx">

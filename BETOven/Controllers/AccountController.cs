@@ -18,10 +18,12 @@ namespace BETOven.Controllers
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
         private BetovenDBContext DBContext;
+        private ApplicationDbContext AppDbContext;
 
         public AccountController()
         {
             DBContext = new BetovenDBContext();
+            AppDbContext = new ApplicationDbContext();
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
@@ -448,6 +450,24 @@ namespace BETOven.Controllers
             Money m = DBContext.Money.Where(x => x.UserID == id).FirstOrDefault();
             return Content($"Money: { m.CurrentAmount}");
             
+        }
+
+        [Authorize(Roles = "Admin")]
+        public ActionResult AddToRole()
+        {
+            return View("AddToRole", new UserRole {Roles = AppDbContext.Roles.Select(x => x.Name).ToList()});
+        }
+
+        [HttpPost]
+        public ActionResult AddToRole(UserRole userRole)
+        {
+            ApplicationUser user = UserManager.FindByEmail(userRole.Email);
+            if (user != null)
+            {
+                UserManager.AddToRole(user.Id, userRole.Role);
+                return View("Login");
+            }
+            return View("AddToRole", new UserRole { Roles = AppDbContext.Roles.Select(x => x.Name).ToList() });
         }
 
         #region Helpers

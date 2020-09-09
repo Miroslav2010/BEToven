@@ -43,6 +43,7 @@ namespace BETOven.Controllers
         }
 
         // GET: Bilten/Create
+        [Authorize(Roles="Admin")]
         public ActionResult Create()
         {
             return View();
@@ -66,6 +67,7 @@ namespace BETOven.Controllers
             return View(biltenEntry);
         }
 
+        [Authorize(Roles = "Admin")]
         public ActionResult Result(int? id)
         {
             if (id == null)
@@ -101,6 +103,7 @@ namespace BETOven.Controllers
         }
 
         // GET: Bilten/Edit/5
+        [Authorize(Roles = "Admin")]
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -132,6 +135,7 @@ namespace BETOven.Controllers
         }
 
         // GET: Bilten/Delete/5
+        [Authorize(Roles = "Admin")]
         public ActionResult Delete(int? id)
         {
             if (id == null)
