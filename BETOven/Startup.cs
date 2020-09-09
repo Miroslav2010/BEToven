@@ -8,6 +8,7 @@ namespace BETOven
     {
         public void Configuration(IAppBuilder app)
         {
+            //tests
             ConfigureAuth(app);
         }
     }
