@@ -1,0 +1,166 @@
+﻿@model BETOven.Models.Ticket
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div class="form-horizontal">
+    <table id="table">
+        <thead>
+            <tr>
+                <td>
+                    @Html.DisplayNameFor(model => model.BetsOptions[0].Entry.MatchStart)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.BetsOptions[0].Entry.Team1)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.BetsOptions[0].Entry.Team2)
+                </td>
+                <td>
+                    @Html.DisplayNameFor(model => model.BetsOptions[0].Option)
+                </td>
+                <td>
+                    @Html.DisplayName("Coefficient")
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                float coef = 1;
+            }
+            @foreach (BETOven.Models.Bet bet in Model.BetsOptions)
+            {
+                if (bet.Status == BETOven.Models.Status.Right)
+                {
+                    <tr class="bg-success">
+                        <td>
+                            @Html.Label(bet.Entry.MatchStart.ToString())
+                        </td>
+                        <td>
+                            @Html.Label(bet.Entry.Team1)
+                        </td>
+                        <td>
+                            @Html.Label(bet.Entry.Team2)
+                        </td>
+                        <td>
+                            @Html.Label(bet.Option)
+                        </td>
+                        <td>
+                            @if (bet.Option.Equals("1"))
+                            {
+                                @Html.Label(bet.Entry.Team1Win.ToString())
+                                coef *= (bet.Entry.Team1Win);
+                            }
+                            else if (bet.Option.Equals("2"))
+                            {
+                                @Html.Label(bet.Entry.Team2Win.ToString())
+                                coef *= (bet.Entry.Draw);
+                            }
+                            else if (bet.Option.Equals("X"))
+                            {
+                                @Html.Label(bet.Entry.Draw.ToString())
+                                coef *= (bet.Entry.Team2Win);
+                            }
+                        </td>
+                    </tr>
+                }
+                else if (bet.Status == BETOven.Models.Status.Wrong)
+                {
+                    <tr class="bg-danger">
+                        <td>
+                            @Html.Label(bet.Entry.MatchStart.ToString())
+                        </td>
+                        <td>
+                            @Html.Label(bet.Entry.Team1)
+                        </td>
+                        <td>
+                            @Html.Label(bet.Entry.Team2)
+                        </td>
+                        <td>
+                            @Html.Label(bet.Option)
+                        </td>
+                        <td>
+                            @if (bet.Option.Equals("1"))
+                            {
+                                @Html.Label(bet.Entry.Team1Win.ToString())
+                                coef *= (bet.Entry.Team1Win);
+                            }
+                            else if (bet.Option.Equals("2"))
+                            {
+                                @Html.Label(bet.Entry.Team2Win.ToString())
+                                coef *= (bet.Entry.Draw);
+                            }
+                            else if (bet.Option.Equals("X"))
+                            {
+                                @Html.Label(bet.Entry.Draw.ToString())
+                                coef *= (bet.Entry.Team2Win);
+                            }
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    <tr class="bg-warning">
+                        <td>
+                            @Html.Label(bet.Entry.MatchStart.ToString())
+                        </td>
+                        <td>
+                            @Html.Label(bet.Entry.Team1)
+                        </td>
+                        <td>
+                            @Html.Label(bet.Entry.Team2)
+                        </td>
+                        <td>
+                            @Html.Label(bet.Option)
+                        </td>
+                        <td>
+                            @if (bet.Option.Equals("1"))
+                            {
+                                @Html.Label(bet.Entry.Team1Win.ToString())
+                                coef *= (bet.Entry.Team1Win);
+                            }
+                            else if (bet.Option.Equals("2"))
+                            {
+                                @Html.Label(bet.Entry.Team2Win.ToString())
+                                coef *= (bet.Entry.Draw);
+                            }
+                            else if (bet.Option.Equals("X"))
+                            {
+                                @Html.Label(bet.Entry.Draw.ToString())
+                                coef *= (bet.Entry.Team2Win);
+                            }
+                        </td>
+                    </tr>
+                }
+
+            }
+            <tr>
+                <td colspan="4">Initial Payment</td>
+                <td> @Model.BetAmount </td>
+            </tr>
+            <tr>
+                <td colspan="4">Mulitplied Coefficient</td>
+                <td> @coef </td>
+            </tr>
+            <tr>
+                <td colspan="4">Potential earnings</td>
+                <td> @(Model.BetAmount * coef) </td>
+            </tr>
+            @if (Model.MoneyClaimed == BETOven.Models.MoneyClaimed.No)
+            {
+                <tr>
+                    <td colspan="5">
+                        @Html.ActionLink("Claim Money", "Claim", new { id = Model.TicketID })
+                    </td>
+                </tr>
+            }
+        </tbody>
+        </table>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TicketID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
