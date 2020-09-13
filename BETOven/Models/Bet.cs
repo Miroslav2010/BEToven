@@ -11,7 +11,8 @@ namespace BETOven.Models
     {
         Right,
         InProgress,
-        Wrong
+        Wrong,
+        Canceled
     }
     public class Bet
     {
@@ -37,6 +38,10 @@ namespace BETOven.Models
                     {
                         Status = Status.Wrong;
                     }
+                }
+                else if(Entry.GameStatus == GameStatus.Canceled)
+                {
+                    Status = Status.Canceled;
                 }
             }
         }

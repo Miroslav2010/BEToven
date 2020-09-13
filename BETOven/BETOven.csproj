@@ -328,7 +328,7 @@
     <Content Include="Views\Bilten\Create.cshtml" />
     <Content Include="Views\Bilten\Delete.cshtml" />
     <Content Include="Views\Bilten\Details.cshtml" />
-    <Content Include="Views\Bilten\Edit.cshtml" />
+    <Content Include="Views\Bilten\EditBU.cshtml" />
     <Content Include="Views\Bilten\Index.cshtml" />
     <Content Include="Views\Account\AddFunds.cshtml" />
     <Content Include="Views\Tickets\Create.cshtml" />
@@ -340,6 +340,8 @@
     <Content Include="Views\Tickets\Index.cshtml" />
     <Content Include="Views\Bilten\Result.cshtml" />
     <Content Include="Views\Account\AddToRole.cshtml" />
+    <Content Include="Views\Bilten\Edit.cshtml" />
+    <Content Include="Views\Bilten\Results.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202007131837278_first.resx">

@@ -59,7 +59,7 @@
                                 @Html.Label(bet.Entry.Team2Win.ToString())
                                 coef *= (bet.Entry.Draw);
                             }
-                            else if (bet.Option.Equals("X"))
+                            else if (bet.Option.Equals("x"))
                             {
                                 @Html.Label(bet.Entry.Draw.ToString())
                                 coef *= (bet.Entry.Team2Win);
@@ -93,7 +93,7 @@
                                 @Html.Label(bet.Entry.Team2Win.ToString())
                                 coef *= (bet.Entry.Draw);
                             }
-                            else if (bet.Option.Equals("X"))
+                            else if (bet.Option.Equals("x"))
                             {
                                 @Html.Label(bet.Entry.Draw.ToString())
                                 coef *= (bet.Entry.Team2Win);
@@ -101,7 +101,7 @@
                         </td>
                     </tr>
                 }
-                else
+                else if (bet.Status == BETOven.Models.Status.InProgress)
                 {
                     <tr class="bg-warning">
                         <td>
@@ -127,10 +127,44 @@
                                 @Html.Label(bet.Entry.Team2Win.ToString())
                                 coef *= (bet.Entry.Draw);
                             }
-                            else if (bet.Option.Equals("X"))
+                            else if (bet.Option.Equals("x"))
                             {
                                 @Html.Label(bet.Entry.Draw.ToString())
                                 coef *= (bet.Entry.Team2Win);
+                            }
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    <tr class="bg-info">
+                        <td>
+                            @Html.Label(bet.Entry.MatchStart.ToString())
+                        </td>
+                        <td>
+                            @Html.Label(bet.Entry.Team1)
+                        </td>
+                        <td>
+                            @Html.Label(bet.Entry.Team2)
+                        </td>
+                        <td>
+                            @Html.Label(bet.Option)
+                        </td>
+                        <td>
+                            @if (bet.Option.Equals("1"))
+                            {
+                                @Html.Label(bet.Entry.Team1Win.ToString())
+                                
+                            }
+                            else if (bet.Option.Equals("2"))
+                            {
+                                @Html.Label(bet.Entry.Team2Win.ToString())
+                                
+                            }
+                            else if (bet.Option.Equals("x"))
+                            {
+                                @Html.Label(bet.Entry.Draw.ToString())
+                                
                             }
                         </td>
                     </tr>

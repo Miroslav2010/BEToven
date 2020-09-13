@@ -50,6 +50,10 @@ namespace BETOven.Controllers
                 float coef = 1;
                 foreach(Bet bet in ticket.BetsOptions)
                 {
+                    if(bet.Status == Status.Canceled)
+                    {
+                        continue;
+                    }
                     if(bet.Option == "1")
                     {
                         coef *= (bet.Entry.Team1Win);
@@ -59,7 +63,7 @@ namespace BETOven.Controllers
                     {
                         coef *= (bet.Entry.Draw);
                     }
-                    else
+                    else if (bet.Option == "2")
                     {
                         coef *= (bet.Entry.Team2Win);
                     }
@@ -169,6 +173,7 @@ namespace BETOven.Controllers
         }
 
         // GET: Tickets/Edit/5
+        [Authorize(Roles = "Admin")]
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -188,6 +193,7 @@ namespace BETOven.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public ActionResult Edit([Bind(Include = "TicketID,UserID,BetAmount")] Ticket ticket)
         {
             if (ModelState.IsValid)
@@ -200,6 +206,7 @@ namespace BETOven.Controllers
         }
 
         // GET: Tickets/Delete/5
+        [Authorize(Roles = "Admin")]
         public ActionResult Delete(int? id)
         {
             if (id == null)
@@ -217,6 +224,7 @@ namespace BETOven.Controllers
         // POST: Tickets/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public ActionResult DeleteConfirmed(int id)
         {
             Ticket ticket = db.Ticket.Find(id);

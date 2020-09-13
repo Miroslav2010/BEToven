@@ -19,11 +19,23 @@ namespace BETOven.Controllers
         {
             if (string.IsNullOrEmpty(Sport))
             {
-                return View(db.Bilten.Where(x => x.MatchStart.CompareTo(DateTime.Now) > 0).ToList());
+                return View(db.Bilten.Where(x => x.MatchStart.CompareTo(DateTime.Now) > 0 && x.GameStatus!=GameStatus.Canceled).ToList());
             }
             else
             {
                 return View(db.Bilten.Where(x => x.MatchStart.CompareTo(DateTime.Now) > 0 && ((int)x.Sport).ToString() == Sport).ToList());
+            }
+        }
+
+        public ActionResult SetResults(string Sport = null)
+        {
+            if (string.IsNullOrEmpty(Sport))
+            {
+                return View("Results",db.Bilten.Where(x => x.MatchStart.CompareTo(DateTime.Now) < 0 && x.GameStatus != GameStatus.Canceled).ToList());
+            }
+            else
+            {
+                return View("Results",db.Bilten.Where(x => x.MatchStart.CompareTo(DateTime.Now) < 0 && ((int)x.Sport).ToString() == Sport).ToList());
             }
         }
 
@@ -54,6 +66,7 @@ namespace BETOven.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public ActionResult Create([Bind(Include = "BiltenEntryID,Sport,MatchStart,Team1,Team2,Team1Win,Draw,Team2Win")] BiltenEntry biltenEntry)
         {
             if (ModelState.IsValid)
@@ -84,6 +97,7 @@ namespace BETOven.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public ActionResult Result(BiltenEntry biltenEntry)
         {
             if (ModelState.IsValid)
@@ -97,7 +111,7 @@ namespace BETOven.Controllers
                 be.Team2Points = biltenEntry.Team2Points;
                 be.GameStatus = GameStatus.Finished;
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("SetResults");
             }
             return View(biltenEntry);
         }
@@ -123,6 +137,7 @@ namespace BETOven.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public ActionResult Edit([Bind(Include = "BiltenEntryID,Sport,MatchStart,Team1,Team2,Team1Win,Draw,Team2Win")] BiltenEntry biltenEntry)
         {
             if (ModelState.IsValid)
@@ -153,13 +168,16 @@ namespace BETOven.Controllers
         // POST: Bilten/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "Admin")]
         public ActionResult DeleteConfirmed(int id)
         {
             BiltenEntry biltenEntry = db.Bilten.Find(id);
-            db.Bilten.Remove(biltenEntry);
+            biltenEntry.GameStatus = GameStatus.Canceled;
             db.SaveChanges();
             return RedirectToAction("Index");
         }
+
+
 
         protected override void Dispose(bool disposing)
         {

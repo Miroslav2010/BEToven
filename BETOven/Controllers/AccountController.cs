@@ -398,7 +398,7 @@ namespace BETOven.Controllers
         public ActionResult LogOff()
         {
             AuthenticationManager.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Index", "Bilten");
         }
 
         //
@@ -452,7 +452,7 @@ namespace BETOven.Controllers
             
         }
 
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles ="Admin")]
         public ActionResult AddToRole()
         {
             return View("AddToRole", new UserRole {Roles = AppDbContext.Roles.Select(x => x.Name).ToList()});

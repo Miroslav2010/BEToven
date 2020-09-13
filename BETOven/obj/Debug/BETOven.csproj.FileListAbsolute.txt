@@ -1,0 +1,950 @@
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\BETOven.dll.config
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\BETOven.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\BETOven.pdb
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\csc.exe
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\csc.exe.config
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\csc.rsp
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\csi.exe
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\csi.exe.config
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\csi.rsp
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.AppContext.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Console.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.IO.Compression.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Security.Claims.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.ValueTuple.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\vbc.exe
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\vbc.exe.config
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\vbc.rsp
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\VBCSCompiler.exe
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Antlr3.Runtime.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\EntityFramework.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\EntityFramework.SqlServer.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Newtonsoft.Json.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Owin.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.Helpers.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.Mvc.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.Optimization.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.Razor.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.WebPages.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.WebPages.Razor.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\WebGrease.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.Helpers.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.Mvc.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.Optimization.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.Razor.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.WebPages.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\System.Web.WebPages.Razor.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Newtonsoft.Json.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Antlr3.Runtime.pdb
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\EntityFramework.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\EntityFramework.SqlServer.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Viktor\source\repos\BETOven\BETOven\obj\Debug\BETOven.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\BETOven\BETOven\obj\Debug\BETOven.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\BETOven\BETOven\obj\Debug\BETOven.csproj.CopyComplete
+C:\Users\Viktor\source\repos\BETOven\BETOven\obj\Debug\BETOven.dll
+C:\Users\Viktor\source\repos\BETOven\BETOven\obj\Debug\BETOven.pdb
+C:\Users\Viktor\source\repos\BETOven\BETOven\obj\Debug\BETOven.Migrations.first.resources
+C:\Users\Viktor\source\repos\BETOven\BETOven\obj\Debug\BETOven.csproj.GenerateResource.cache
+C:\Users\Viktor\source\repos\BETOven\BETOven\obj\Debug\BETOven.Migrations.second.resources
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\BETOven.dll.config
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\BETOven.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\BETOven.pdb
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\csc.exe
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\csc.exe.config
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\csc.rsp
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\csi.exe
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\csi.exe.config
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\csi.rsp
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.AppContext.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Console.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.IO.Compression.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Security.Claims.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.ValueTuple.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\vbc.exe
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\vbc.exe.config
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\vbc.rsp
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\VBCSCompiler.exe
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Antlr3.Runtime.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\EntityFramework.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Newtonsoft.Json.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Owin.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.Helpers.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.Mvc.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.Optimization.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.Razor.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.WebPages.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.WebPages.Razor.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\WebGrease.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.Helpers.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.Mvc.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.Optimization.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.Razor.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.WebPages.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Web.WebPages.Razor.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Newtonsoft.Json.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Antlr3.Runtime.pdb
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\EntityFramework.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\EntityFramework.SqlServer.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.csprojAssemblyReference.cache
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.Migrations.first.resources
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.Migrations.second.resources
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.Migrations.third.resources
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.Migrations.fourth.resources
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.csproj.GenerateResource.cache
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.csproj.CopyComplete
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.pdb
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\netstandard.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.AppContext.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Collections.Concurrent.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Collections.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Collections.NonGeneric.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Collections.Specialized.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.ComponentModel.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.ComponentModel.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Console.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Data.Common.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Diagnostics.Contracts.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Diagnostics.Debug.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Diagnostics.Process.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Diagnostics.Tools.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Diagnostics.Tracing.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Drawing.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Dynamic.Runtime.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Globalization.Calendars.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Globalization.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Globalization.Extensions.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.IO.Compression.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.IO.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.IO.FileSystem.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.IO.IsolatedStorage.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.IO.Pipes.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Linq.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Linq.Expressions.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Linq.Parallel.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Linq.Queryable.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Net.Http.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Net.NameResolution.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Net.NetworkInformation.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Net.Ping.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Net.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Net.Requests.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Net.Security.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Net.Sockets.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Net.WebSockets.Client.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Net.WebSockets.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.ObjectModel.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Reflection.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Reflection.Extensions.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Reflection.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Resources.Reader.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Resources.ResourceManager.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Resources.Writer.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Runtime.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Runtime.Extensions.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Runtime.Handles.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Runtime.InteropServices.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Runtime.Numerics.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Security.Claims.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Security.Principal.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Security.SecureString.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Text.Encoding.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Text.RegularExpressions.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Threading.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Threading.Overlapped.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Threading.Tasks.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Threading.Thread.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Threading.ThreadPool.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Threading.Timer.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.ValueTuple.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Xml.ReaderWriter.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Xml.XDocument.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Xml.XmlDocument.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Xml.XmlSerializer.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Xml.XPath.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\bin\Json.Net.dll
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.Migrations.fifth.resources
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.Migrations.sixth.resources
+C:\Users\Viktor\Desktop\BEToven-First\BETOven\obj\Debug\BETOven.Migrations.seventh.resources
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\BETOven.dll.config
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\BETOven.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\BETOven.pdb
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\csc.exe
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\csc.exe.config
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\csc.rsp
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\csi.exe
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\csi.exe.config
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\csi.rsp
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.AppContext.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Console.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.IO.Compression.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Security.Claims.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.ValueTuple.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\vbc.exe
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\vbc.exe.config
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\vbc.rsp
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\VBCSCompiler.exe
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Win32.Primitives.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\netstandard.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.AppContext.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Collections.Concurrent.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Collections.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Collections.NonGeneric.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Collections.Specialized.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.ComponentModel.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.ComponentModel.Primitives.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Console.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Data.Common.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Diagnostics.Contracts.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Diagnostics.Debug.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Diagnostics.Process.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Diagnostics.StackTrace.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Diagnostics.Tools.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Diagnostics.TraceSource.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Diagnostics.Tracing.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Drawing.Primitives.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Dynamic.Runtime.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Globalization.Calendars.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Globalization.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Globalization.Extensions.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.IO.Compression.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.IO.Compression.ZipFile.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.IO.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.IO.FileSystem.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.IO.IsolatedStorage.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.IO.Pipes.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Linq.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Linq.Expressions.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Linq.Parallel.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Linq.Queryable.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Net.Http.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Net.NameResolution.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Net.NetworkInformation.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Net.Ping.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Net.Primitives.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Net.Requests.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Net.Security.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Net.Sockets.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Net.WebHeaderCollection.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Net.WebSockets.Client.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Net.WebSockets.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.ObjectModel.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Reflection.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Reflection.Extensions.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Reflection.Primitives.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Resources.Reader.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Resources.ResourceManager.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Resources.Writer.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Runtime.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Runtime.Extensions.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Runtime.Handles.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Runtime.InteropServices.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Runtime.Numerics.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Runtime.Serialization.Json.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Security.Claims.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Security.Cryptography.Csp.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Security.Principal.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Security.SecureString.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Text.Encoding.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Text.Encoding.Extensions.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Text.RegularExpressions.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Threading.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Threading.Overlapped.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Threading.Tasks.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Threading.Thread.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Threading.ThreadPool.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Threading.Timer.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.ValueTuple.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Xml.ReaderWriter.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Xml.XDocument.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Xml.XmlDocument.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Xml.XmlSerializer.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Xml.XPath.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Xml.XPath.XDocument.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Antlr3.Runtime.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\EntityFramework.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\EntityFramework.SqlServer.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Json.Net.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Newtonsoft.Json.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Owin.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.Helpers.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.Mvc.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.Optimization.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.Razor.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.WebPages.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.WebPages.Razor.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\WebGrease.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.Helpers.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.Mvc.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.Optimization.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.Razor.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.WebPages.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\System.Web.WebPages.Razor.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Newtonsoft.Json.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Antlr3.Runtime.pdb
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\EntityFramework.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\EntityFramework.SqlServer.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.csprojAssemblyReference.cache
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.Migrations.first.resources
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.Migrations.second.resources
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.Migrations.third.resources
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.Migrations.fourth.resources
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.Migrations.fifth.resources
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.Migrations.sixth.resources
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.Migrations.seventh.resources
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.csproj.GenerateResource.cache
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.csproj.CoreCompileInputs.cache
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.csproj.CopyComplete
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.dll
+C:\Users\tanja stojanovska\source\repos\BetovenRepo\BETOven\obj\Debug\BETOven.pdb
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\BETOven.dll.config
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\BETOven.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\BETOven.pdb
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\csc.exe
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\csc.exe.config
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\csc.rsp
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\csi.exe
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\csi.exe.config
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\csi.rsp
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.AppContext.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Console.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.IO.Compression.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.IO.Pipes.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Security.Claims.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.ValueTuple.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Xml.XPath.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\vbc.exe
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\vbc.exe.config
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\vbc.rsp
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\VBCSCompiler.exe
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Win32.Primitives.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\netstandard.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.AppContext.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Collections.Concurrent.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Collections.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Collections.NonGeneric.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Collections.Specialized.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.ComponentModel.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.ComponentModel.Primitives.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Console.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Data.Common.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Diagnostics.Contracts.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Diagnostics.Debug.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Diagnostics.Process.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Diagnostics.StackTrace.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Diagnostics.Tools.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Diagnostics.TraceSource.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Diagnostics.Tracing.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Drawing.Primitives.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Dynamic.Runtime.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Globalization.Calendars.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Globalization.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Globalization.Extensions.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.IO.Compression.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.IO.Compression.ZipFile.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.IO.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.IO.FileSystem.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.IO.IsolatedStorage.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.IO.Pipes.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Linq.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Linq.Expressions.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Linq.Parallel.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Linq.Queryable.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Net.Http.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Net.NameResolution.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Net.NetworkInformation.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Net.Ping.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Net.Primitives.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Net.Requests.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Net.Security.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Net.Sockets.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Net.WebHeaderCollection.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Net.WebSockets.Client.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Net.WebSockets.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.ObjectModel.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Reflection.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Reflection.Extensions.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Reflection.Primitives.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Resources.Reader.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Resources.ResourceManager.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Resources.Writer.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Runtime.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Runtime.Extensions.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Runtime.Handles.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Runtime.InteropServices.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Runtime.Numerics.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Runtime.Serialization.Json.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Security.Claims.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Security.Cryptography.Csp.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Security.Principal.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Security.SecureString.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Text.Encoding.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Text.Encoding.Extensions.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Text.RegularExpressions.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Threading.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Threading.Overlapped.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Threading.Tasks.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Threading.Thread.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Threading.ThreadPool.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Threading.Timer.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.ValueTuple.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Xml.ReaderWriter.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Xml.XDocument.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Xml.XmlDocument.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Xml.XmlSerializer.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Xml.XPath.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Xml.XPath.XDocument.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Antlr3.Runtime.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\EntityFramework.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\EntityFramework.SqlServer.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Json.Net.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Newtonsoft.Json.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Owin.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.Helpers.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.Mvc.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.Optimization.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.Razor.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.WebPages.Deployment.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.WebPages.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.WebPages.Razor.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\WebGrease.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.Helpers.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.Mvc.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.Optimization.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.Razor.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.WebPages.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.WebPages.Deployment.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\System.Web.WebPages.Razor.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Newtonsoft.Json.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Antlr3.Runtime.pdb
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\EntityFramework.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\EntityFramework.SqlServer.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.csprojAssemblyReference.cache
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.first.resources
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.second.resources
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.third.resources
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.fourth.resources
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.fifth.resources
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.sixth.resources
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.seventh.resources
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations._new.resources
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.csproj.GenerateResource.cache
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.csproj.CoreCompileInputs.cache
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.csproj.CopyComplete
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.dll
+C:\Users\miroslav\Downloads\BEToven-Third\BETOven\obj\Debug\BETOven.pdb
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\BETOven.dll.config
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\BETOven.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\BETOven.pdb
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\csc.exe
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\csc.exe.config
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\csc.rsp
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\csi.exe
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\csi.exe.config
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\csi.rsp
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.AppContext.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Console.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.IO.Compression.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Security.Claims.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.ValueTuple.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\vbc.exe
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\vbc.exe.config
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\vbc.rsp
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\VBCSCompiler.exe
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\netstandard.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.AppContext.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Collections.Concurrent.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Collections.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Collections.NonGeneric.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Collections.Specialized.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.ComponentModel.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.ComponentModel.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Console.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Data.Common.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Diagnostics.Contracts.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Diagnostics.Debug.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Diagnostics.Process.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Diagnostics.Tools.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Diagnostics.Tracing.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Drawing.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Dynamic.Runtime.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Globalization.Calendars.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Globalization.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Globalization.Extensions.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.IO.Compression.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.IO.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.IO.FileSystem.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.IO.IsolatedStorage.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.IO.Pipes.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Linq.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Linq.Expressions.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Linq.Parallel.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Linq.Queryable.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Net.Http.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Net.NameResolution.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Net.NetworkInformation.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Net.Ping.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Net.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Net.Requests.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Net.Security.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Net.Sockets.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Net.WebSockets.Client.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Net.WebSockets.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.ObjectModel.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Reflection.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Reflection.Extensions.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Reflection.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Resources.Reader.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Resources.ResourceManager.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Resources.Writer.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Runtime.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Runtime.Extensions.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Runtime.Handles.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Runtime.InteropServices.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Runtime.Numerics.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Security.Claims.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Security.Principal.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Security.SecureString.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Text.Encoding.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Text.RegularExpressions.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Threading.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Threading.Overlapped.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Threading.Tasks.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Threading.Thread.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Threading.ThreadPool.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Threading.Timer.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.ValueTuple.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Xml.ReaderWriter.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Xml.XDocument.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Xml.XmlDocument.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Xml.XmlSerializer.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Xml.XPath.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Antlr3.Runtime.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\EntityFramework.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Json.Net.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Newtonsoft.Json.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Owin.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.Helpers.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.Mvc.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.Optimization.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.Razor.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.WebPages.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.WebPages.Razor.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\WebGrease.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.Helpers.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.Mvc.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.Optimization.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.Razor.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.WebPages.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\System.Web.WebPages.Razor.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Newtonsoft.Json.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Antlr3.Runtime.pdb
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\EntityFramework.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\EntityFramework.SqlServer.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.csprojAssemblyReference.cache
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.first.resources
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.second.resources
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.third.resources
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.fourth.resources
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.fifth.resources
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.sixth.resources
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations.seventh.resources
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.Migrations._new.resources
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.csproj.GenerateResource.cache
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.csproj.CopyComplete
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.dll
+C:\Users\Viktor\Desktop\BEToven-Third\BETOven\obj\Debug\BETOven.pdb

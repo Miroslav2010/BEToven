@@ -3,9 +3,17 @@
     ViewBag.Title = "Index";
 }
 <h2>Index</h2>
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
+
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <p>
+        @Html.ActionLink("Set Results", "SetResults")
+    </p>
+}
+
 <p>
     @using (Html.BeginForm("Index", "Bilten", FormMethod.Get))
     {
@@ -68,11 +76,11 @@
             @Html.DisplayFor(modelItem => item.Team2Win)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id = item.BiltenEntryID }) |
-            @Html.ActionLink("Details", "Details", new { id = item.BiltenEntryID }) |
-            @Html.ActionLink("Delete", "Delete", new { id = item.BiltenEntryID }) |
-            @Html.ActionLink("Set Result","Result",new { id = item.BiltenEntryID})
+            @Html.ActionLink("Edit", "Edit", new { id = item.BiltenEntryID })|
 
+            @Html.ActionLink("Details", "Details", new { id = item.BiltenEntryID })|
+
+            @Html.ActionLink("Delete", "Delete", new { id = item.BiltenEntryID })
         </td>
     </tr>
     }

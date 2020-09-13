@@ -13,7 +13,8 @@ namespace BETOven.Models
     public enum GameStatus
     {
         InProgress,
-        Finished
+        Finished,
+        Canceled
     }
     public class BiltenEntry
     {
