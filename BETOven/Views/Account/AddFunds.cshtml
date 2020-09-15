@@ -1,0 +1,15 @@
+﻿@model BETOven.Models.AddFunds
+
+@{
+    ViewBag.Title = "AddFunds";
+}
+
+<h2>AddFunds</h2>
+
+@using (Html.BeginForm("AddFunds", "Account", new { }, FormMethod.Post))
+{
+    @Html.TextBoxFor(x => x.Money)
+    <br/>
+    <button type="submit">Add Funds</button>
+}
+

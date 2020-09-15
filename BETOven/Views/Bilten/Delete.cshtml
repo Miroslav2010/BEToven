@@ -1,0 +1,79 @@
+﻿@model BETOven.Models.BiltenEntry
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>BiltenEntry</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MatchStart)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MatchStart)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Sport)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sport)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Team1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Team1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Team2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Team2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Team1Win)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Team1Win)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Draw)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Draw)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Team2Win)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Team2Win)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

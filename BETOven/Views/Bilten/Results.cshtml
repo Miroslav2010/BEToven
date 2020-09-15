@@ -1,0 +1,127 @@
+﻿@model IEnumerable<BETOven.Models.BiltenEntry>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<p>
+    @using (Html.BeginForm("SetResults", "Bilten", FormMethod.Get))
+    {
+        @Html.DropDownList("Sport", new List<SelectListItem>
+        {   new SelectListItem{ Text="---", Value = "" },
+            new SelectListItem{ Text="Football", Value = "0" },
+            new SelectListItem{ Text="Basketball", Value = "1" },
+            new SelectListItem{ Text="Handball", Value = "2" }
+        })
+        <input type="submit" value="Search" />
+    }
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MatchStart)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sport)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Team1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Team2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Team1Win)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Draw)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Team2Win)
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MatchStart)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Sport)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Team1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Team2)
+        </td>
+        <td class="selektorce" onclick="AddToCookie(@item.BiltenEntryID , '1', this)">
+            @Html.DisplayFor(modelItem => item.Team1Win)
+        </td>
+        <td class="selektorce" onclick="AddToCookie(@item.BiltenEntryID,'x', this)">
+            @Html.DisplayFor(modelItem => item.Draw)
+        </td>
+        <td class="selektorce" onclick="AddToCookie(@item.BiltenEntryID, '2', this)">
+            @Html.DisplayFor(modelItem => item.Team2Win)
+        </td>
+        <td>
+            @Html.ActionLink("Set Result","Result",new { id = item.BiltenEntryID})
+        </td>
+    </tr>
+    }
+</table>
+
+<p>
+    @Html.ActionLink("Create New Ticket","Create","Tickets")
+</p>
+
+@section scripts{
+    <script>
+        function AddToCookie(a, b, c) {
+            console.log(c);
+            var d = c.parentNode;
+            console.log(d);
+            for (var i = 0; i < d.children.length;i++) {
+                console.log(d.children.item(i));
+                d.children.item(i).removeAttribute("style");
+            }
+            c.setAttribute("style", "background-color: Maroon;color:white;");
+            if (typeof Cookies.get('Ticket') === 'undefined') {
+                var arr = new Array();
+                var obj = new Object()
+                obj.id = a;
+                obj.pick = b;
+                arr.push(obj)
+                Cookies.set('Ticket', JSON.stringify(arr), { sameSite: "Strict" })
+            } else {
+                var arr = JSON.parse(Cookies.get('Ticket'))
+                var obj = new Object()
+                obj.id = a;
+                obj.pick = b;
+                var result = CheckCookie(arr, obj)
+                if ( result === -1 ) {
+                    arr.push(obj)
+                }
+                else {
+                    arr[result] = obj
+                }
+
+                Cookies.set('Ticket', JSON.stringify(arr), {sameSite:"Strict"})
+            }
+        }
+
+        function CheckCookie(arr, obj) {
+            for (var i = 0; i < arr.length; i++) {
+                if (arr[i].id == obj.id) {
+                    return i
+                }
+            }
+            return -1
+        }
+
+    </script>
+
+}

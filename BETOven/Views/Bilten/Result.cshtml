@@ -1,0 +1,59 @@
+﻿@model BETOven.Models.BiltenEntry
+
+@{
+    ViewBag.Title = "Result";
+}
+
+<h2>Result</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>BiltenEntry</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.BiltenEntryID)
+
+    @Html.HiddenFor(model => model.MatchStart)
+
+    @Html.HiddenFor(model => model.Team1)
+
+    @Html.HiddenFor(model => model.Team2)
+
+    @Html.HiddenFor(model => model.Team1Win)
+
+    @Html.HiddenFor(model => model.Draw)
+
+    @Html.HiddenFor(model => model.Team2Win)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Team1Points, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Team1Points, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Team1Points, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Team2Points, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Team2Points, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Team2Points, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    @Html.HiddenFor(model => model.GameStatus)
+    @Html.HiddenFor(model => model.Sport)
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
